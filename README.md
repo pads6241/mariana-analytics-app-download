@@ -1,2 +1,2 @@
-﻿# Click the link to download Mariana, or use the link below!
+﻿# Click the link below to download Mariana!
 https://mariana-analytics.app/
